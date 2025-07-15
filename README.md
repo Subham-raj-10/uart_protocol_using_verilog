@@ -15,6 +15,7 @@ UART Receiver:
 Data Width: 8-bit
 Baud Rate: Customizable
 Error Handling: Parity error and stop bit error detection
-Tools Used: Xilinx Vivado,
+Tools Used: Xilinx Vivado.
+
 <img width="715" height="462" alt="image" src="https://github.com/user-attachments/assets/8b6e5abf-f53a-40db-9500-6465f1f19a87" />
 <img width="822" height="528" alt="image" src="https://github.com/user-attachments/assets/e8f7bbe0-e490-4b28-b655-17bb2d95988c" />
